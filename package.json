@@ -24,7 +24,7 @@
     "coveralls": "*",
     "jscoverage": "*",
     "mocha-lcov-reporter": "*",
-    "express": "3.8.x",
+    "express": "4.17.x",
     "sleep": "*",
     "body-parser": "*"
   },
